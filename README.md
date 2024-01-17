@@ -3,13 +3,13 @@ An elegant React.js Music Application.
 1. Clone the repo
 
    ```shell
-    git clone https://github.com/JavaScript-Mastery-PRO/project1_team4_repository.git
+    git clone https://github.com/Yamini-hari/Spotify-Clone-
    ```
 
 2. Change directory to the project directory
 
     ```shell
-    cd project1_team4_repository
+    cd Spotify-clone
     ```
 
 3. Install the dependencies
