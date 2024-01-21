@@ -18,4 +18,4 @@ export const VolumeBar = ({ value, min, max, onChange, setVolume }) => (
   </div>
 );
 
-
+export default VolumeBar;

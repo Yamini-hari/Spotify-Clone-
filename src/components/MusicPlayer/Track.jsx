@@ -16,4 +16,5 @@ export const Track = ({ isPlaying, isActive, activeSong }) => (
   </div>
 );
 
+export default Track;
 

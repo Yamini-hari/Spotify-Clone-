@@ -28,3 +28,4 @@ export const Seekbar = ({ value, min, max, onInput, setSeekTime, appTime }) => {
 };
 
 
+export default Seekbar;

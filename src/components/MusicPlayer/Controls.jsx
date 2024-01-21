@@ -16,4 +16,5 @@ export const Controls = ({ isPlaying, repeat, setRepeat, shuffle, setShuffle, cu
   </div>
 );
 
+export default Controls;
 

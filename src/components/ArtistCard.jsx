@@ -17,4 +17,4 @@ export const ArtistCard = ({ track }) => {
   );
 };
 
-
+export default ArtistCard;

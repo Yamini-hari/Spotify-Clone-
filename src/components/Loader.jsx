@@ -9,4 +9,4 @@ export const Loader = ({ title }) => (
   </div>
 );
 
-
+export default Loader;
